@@ -1,2 +1,5 @@
 # proyectoMaquillaje
-Este un proyecto dónde se selecciona elementos de maquillaje con sus tonos respectivos y también se añaden a un carrito.
+
+Un usuario no registrado ingresa al sitio web de compras de maquillaje (rembeauty)
+Busca y selecciona un gloss, un labial, un delineador y una sombra con su color específico
+Los añade a su carrito correctamente
