@@ -1,0 +1,17 @@
+{
+    
+    "MagnifyingGlass": ".header-search-icon__icon",
+    "searchBar": ".header-search__input",
+
+    
+    "gloss": "#product-7128054825126",
+    "lipstick": "#product-7584464634119",
+    "eyeliner": "#product-7128051155110",
+    "eyeshadow": "#product-7128051417254",
+
+    
+    "glossColorElement": "'.product-options-selector__grid'",
+    "glossColor": "experiment"
+        
+
+}
