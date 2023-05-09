@@ -12,6 +12,4 @@ Cypress + JavaScript
 
 
 
-⊹─⊱✤⊰─⊹⊹─⊱✤⊰─⊹
-By Bianca Piovano
-⊹─⊱✤⊰─⊹⊹─⊱✤⊰─⊹
+⊹─⊱✤⊰─⊹ By Bianca Piovano ⊹─⊱✤⊰─⊹
