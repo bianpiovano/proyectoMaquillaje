@@ -1,6 +1,6 @@
 # proyectoMaquillaje
 
-⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒
+⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒⭒＊*•✩•˚⍣˚•✩•*˚＊⭒
 
 Un usuario no registrado ingresa al sitio web de compras de maquillaje (rembeauty)
 
