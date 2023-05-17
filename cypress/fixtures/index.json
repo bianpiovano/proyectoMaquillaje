@@ -1,6 +1,6 @@
 {
     
-    "MagnifyingGlass": ".header-search-icon__icon",
+    "magnifyingGlass": ".header-search-icon__icon",
     "searchBar": ".header-search__input",
 
     
@@ -10,8 +10,15 @@
     "eyeshadow": "#product-7128051417254",
 
     
-    "glossColorElement": "'.product-options-selector__grid'",
-    "glossColor": "experiment"
-        
+    "colorElement": "'.product-options-selector__grid'",
+
+    "glossColor": "chuckie",
+    "lipstickColor": "tongue tied",
+    "shadowColor": "g2g",
+
+    "addButton": ".product-add-to-cart" 
+
 
 }
+
+

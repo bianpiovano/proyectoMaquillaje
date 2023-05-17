@@ -32,23 +32,18 @@ Cypress.on('uncaught:exception', (err, runnable) => {
 
   Cypress.Commands.add('searchItem', (item, itemId) => {
     cy.fixture('index').then((locators) => {
-    cy.get(locators.MagnifyingGlass).click();
+    cy.get(locators.magnifyingGlass).click();
     cy.get(locators.searchBar).click().type(item);
     cy.get(itemId).click();
     })
   })
 
-Cypress.Commands.add('searchColor', (color, colorId) => {
+Cypress.Commands.add('searchColor', (colorId) => {
   cy.fixture('index').then((locators) => {
-    cy.get(locators.colorId).debug()
-    cy.get(locators.colorId).each((color, index, list) =>{
-      if (color == locators.glossColor) {
-        cy.get(locators.colorId).click
-
-        
-      }
+    cy.get('.product-options-selector__grid').contains(colorId).click()
+      })
     })
-  })
-})
+
+
 
 
